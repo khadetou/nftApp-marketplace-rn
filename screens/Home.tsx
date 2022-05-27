@@ -1,5 +1,7 @@
-import {useState} from 'react';
+import React, {useState} from 'react';
 import {Text, View} from 'react-native';
+
+import {COLORS, NFTData} from '../constants';
 
 const Home = () => {
   return (
